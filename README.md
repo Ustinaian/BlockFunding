@@ -4,7 +4,7 @@
 
 - 使用了Solidity+Hardhat+Ethers.js+React.js+Bootstrap
 
-- 可点击查看URL= "https://ustinaian.github.io/BlockFunding/"
+### 可点击查看URL= "https://ustinaian.github.io/BlockFunding/"
 
 
 
