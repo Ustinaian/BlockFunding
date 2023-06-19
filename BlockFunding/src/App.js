@@ -9,7 +9,7 @@ import { Form, Button, Tab, Tabs, Alert } from "react-bootstrap";
 import Petitionslist from "./components/Petitionslist";
 import logo from "./images/logo.png";
 
-const contractAddress = "0x4111Cc7956C2995d378C183303f4212fc1f9227C";
+const contractAddress = "0x2Ee1f166a57dc7E86d6E4eB8fFF11Bafa624dE21";
 const App = () => {
     const [show1, setShow1] = useState(false);
     const [show2, setShow2] = useState(false);

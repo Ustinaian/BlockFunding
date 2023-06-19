@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/BlockFunding/static/css/main.fe8aef31.css",
-    "main.js": "/BlockFunding/static/js/main.7f51e96f.js",
+    "main.css": "/BlockFunding/static/css/main.24417672.css",
+    "main.js": "/BlockFunding/static/js/main.d1754906.js",
     "static/media/wall4.jpg": "/BlockFunding/static/media/wall4.19308f5498dd37480ee8.jpg",
     "static/media/manager.png": "/BlockFunding/static/media/manager.a4a7adb89cbb54c49858.png",
     "static/media/logo.png": "/BlockFunding/static/media/logo.62c193c7a584ad531e85.png",
     "index.html": "/BlockFunding/index.html",
-    "main.fe8aef31.css.map": "/BlockFunding/static/css/main.fe8aef31.css.map",
-    "main.7f51e96f.js.map": "/BlockFunding/static/js/main.7f51e96f.js.map"
+    "main.24417672.css.map": "/BlockFunding/static/css/main.24417672.css.map",
+    "main.d1754906.js.map": "/BlockFunding/static/js/main.d1754906.js.map"
   },
   "entrypoints": [
-    "static/css/main.fe8aef31.css",
-    "static/js/main.7f51e96f.js"
+    "static/css/main.24417672.css",
+    "static/js/main.d1754906.js"
   ]
 }
