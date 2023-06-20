@@ -4,11 +4,10 @@
 
 - 使用了Solidity+Hardhat+Ethers.js+React.js+Bootstrap
 
-- 可点击URL= "https://ustinaian.github.io/BlockFunding/"直接查看
+## 可点击查看URL= "https://ustinaian.github.io/BlockFunding/"
 
-  
-
-- 在使用之前，需安装依赖，使用：
+#### 下方为使用说明
+- **在使用之前，需安装依赖**，使用：
 
 - > npm install
 
