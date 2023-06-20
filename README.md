@@ -3,6 +3,7 @@
 **基于区块链的去中心化众筹平台**
 
 - 使用了Solidity+Hardhat+Ethers.js+React.js+Bootstrap
+- 合约地址：0x2Ee1f166a57dc7E86d6E4eB8fFF11Bafa624dE21
 
 ## 可点击查看URL= "https://ustinaian.github.io/BlockFunding/"
 
